@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{209FA716-A7AD-4095-BD70-C8710FC66FA7}|">
+﻿<Properties StartupConfiguration="{209FA716-A7AD-4095-BD70-C8710FC66FA7}|" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.Workbench ActiveDocument="InaAppService/App_Start/Startup.MobileApp.cs">
     <Files>
       <File FileName="../InaApp/InaAppService/App_Start/Startup.MobileApp.cs" Line="1" Column="1" />
